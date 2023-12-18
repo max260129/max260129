@@ -18,7 +18,7 @@
 - 🎨 Design: Adobe Photoshop, Illustrator, Blender
 
 ## Connect with Me 🌎
-- LinkedIn: [Your LinkedIn]([Your LinkedIn URL](https://www.linkedin.com/in/maxence-lemesle-21278a19a/))
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/maxence-lemesle-21278a19a/)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max260129&show_icons=true&locale=en" alt="max260129" /></p>
