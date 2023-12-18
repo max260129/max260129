@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lemesle Maxence</h1>
 <h3 align="center">An innovative AI/Data enthusiast hailing from France</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=max260129" alt="max260129" /></a> </p>
-
 - 📫 How to reach me **lmaxla90002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
