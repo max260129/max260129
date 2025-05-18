@@ -3,9 +3,6 @@
 
 <details>
   
-## About Me 🙋‍♂️
-- 🌱 I’m currently learning LLM, scrapping and data basics.
-
 ## My Skills 🛠️
 - 💻 Languages: Python, Go, C++, Rust
 - 🌐 Web Development: HTML, CSS, JS
