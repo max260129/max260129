@@ -11,7 +11,7 @@
 - 🌐 Web Development: HTML, CSS, JS
 - 📱 Mobile Development: Kotlin
 - 📈 Data Science: Pandas, NumPy, TensorFlow
-- 🎨 Design: Adobe Photoshop, Illustrator, Blender
+- 🎨 Other: Adobe Photoshop, Illustrator, Blender, Premier Pro, Fl Studio
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max260129&show_icons=true&locale=en" alt="max260129" /></p>
 
